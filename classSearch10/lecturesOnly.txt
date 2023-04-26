@@ -1,0 +1,10 @@
+Online Lectures
+66636, DIG2158, Introduction to Digital Systems, Undergraduate, Online
+36636, SOF2058, Introduction to Software, Undergraduate, Online
+51180, CDL2587, Introduction to Computers, Undergraduate, Online
+36637, SOF2058, Introduction to Software, Undergraduate, Online
+
+
+Lectures With No Labs
+89745, COT6578, Advanced Computer theory, Graduate, F2F, PSY-108, No
+32658, COT6578, Advanced Computer theory, Graduate, Mixed, LPS-35, No
